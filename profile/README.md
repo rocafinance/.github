@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="[https://rocafi.com/logo.svg](https://dapp.rocafi.com/assets/RocaFiLogo-colorlight_1760374194629-AAFhYc-z.png)" width="120" alt="RocaFinance Logo" />
-</p>
-
-<h1 align="center">Welcome to RocaFinance DAO 🌐</h1>
+<h1 align="center">Welcome to RocaFi 🌐</h1>
 
 <p align="center">
   <b>DeFi, AI & Governance — powered by ROCA on BNB Chain.</b><br/>
@@ -16,7 +12,7 @@ RocaFinance is a next-generation DeFi protocol integrating AI-driven staking opt
 
 - 🌐 Website: [rocafi.com](https://rocafi.com)  
 - 📘 Docs: [docs.rocafi.com](https://docs.rocafi.com)  
-- 🧭 Snapshot DAO: [snapshot.org/#/rocafi.bnb](https://snapshot.org/#/rocafi.bnb)  
+- 🧭 dApp: [dapp.rocafi.com](https://dapp.rocafi.com)  
 - 🧠 GitHub: [github.com/rocafinance](https://github.com/rocafinance)
 
 ---
