@@ -12,8 +12,7 @@ RocaFinance is a next-generation DeFi protocol integrating AI-driven staking opt
 
 - 🌐 Website: [rocafi.com](https://rocafi.com)  
 - 📘 Docs: [docs.rocafi.com](https://docs.rocafi.com)  
-- 🧭 dApp: [dapp.rocafi.com](https://dapp.rocafi.com)  
-- 🧠 GitHub: [github.com/rocafinance](https://github.com/rocafinance)
+- 🧭 RocadApp: [dapp.rocafi.com](https://dapp.rocafi.com)
 
 ---
 
