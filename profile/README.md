@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rocafi.com/logo.svg" width="120" alt="RocaFinance Logo" />
+  <img src="[https://rocafi.com/logo.svg](https://dapp.rocafi.com/assets/RocaFiLogo-colorlight_1760374194629-AAFhYc-z.png)" width="120" alt="RocaFinance Logo" />
 </p>
 
 <h1 align="center">Welcome to RocaFinance DAO 🌐</h1>
