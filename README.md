@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://rocafi.com/logo.svg" width="120" alt="RocaFinance Logo" />
-</p>
-
-<h1 align="center">Welcome to RocaFinance DAO 🌐</h1>
+<h1 align="center">Welcome to Roca Finance 🌐</h1>
 
 <p align="center">
   <b>DeFi, AI & Governance — powered by ROCA on BNB Chain.</b><br/>
