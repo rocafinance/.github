@@ -15,8 +15,9 @@
 RocaFinance is a next-generation DeFi protocol integrating AI-driven staking optimization, DAO governance, and real yield distribution through a fixed-supply token model.
 
 - 🌐 Website: [rocafi.com](https://rocafi.com)
-- ♦️ dApp: [dapp.rocafi.com](https://dapp.rocafi.com)
-- 🔷 Bridge: [bridge.rocafi.com](https://bridge.rocafi.com)  
+- ☘️ Launchpad: [ico.rocafi.com](https://ico.rocafi.com)
+- 🔷 MVP -DApp: [dapp.rocafi.com](https://dapp.rocafi.com)
+- 🔷 MVP -Bridge: [bridge.rocafi.com](https://bridge.rocafi.com)  
 - 📘 Docs: [docs.rocafi.com](https://docs.rocafi.com) 
 
 ---
